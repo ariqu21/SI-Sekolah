@@ -31,7 +31,7 @@ data-bs-ride="carousel">
 <div class="carousel-item active">
 
 <img
-src="{{ asset('assets/hero1.jpeg') }}"
+src="{{ asset('assets/hero1.jpg') }}"
 class="hero-bg">
 
 </div>
